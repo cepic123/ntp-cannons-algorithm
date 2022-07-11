@@ -1,5 +1,8 @@
 <h2>Kanonov algoritam za množenje matrica</h2>
 
+<h3>Student:</h3>
+Aleksndar Čepić SW-3/2018
+
 <h3>Opis problema:</h3>
 
 Množenje matrica A i B dimenzija n x n
